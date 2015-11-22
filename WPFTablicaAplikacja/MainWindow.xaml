@@ -1,0 +1,49 @@
+﻿<Window x:Class="WPFTablicaAplikacja.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pizzeria" Height="512" Width="527">
+    <Grid>
+        <Button Content="Dodaj" HorizontalAlignment="Left" Margin="181,190,0,0" VerticalAlignment="Top" Width="105" Click="Button_Click" Height="23"/>
+        <ListBox Name="ListBox1"  HorizontalAlignment="Left" Height="248" Margin="303,47,0,0" VerticalAlignment="Top" Width="194" SelectionChanged="ListBox1_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Text="{Binding Produkt}" />
+                        <TextBlock Text="{Binding Skladniki}" />
+                        <TextBlock Text="{Binding Cena}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <TextBox Name="TextBox1" HorizontalAlignment="Left" Height="32" Margin="181,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="105"/>
+        <TextBox Name="TextBox2" HorizontalAlignment="Left" Height="55" Margin="181,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="105"/>
+        <TextBox Name="TextBox3" HorizontalAlignment="Left" Height="26" Margin="181,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="105" RenderTransformOrigin="0.05,-0.605"/>
+        <Button Content="Usun" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Margin="181,218,0,0" Click="Button_Click_1"/>
+        <ListBox Name="zamow" HorizontalAlignment="Left" Height="210" Margin="10,39,0,0" VerticalAlignment="Top" Width="156" SelectionChanged="ListBox_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Text="{Binding Produkt}" />
+                        <TextBlock Text="{Binding Skladniki}" />
+                        <TextBlock Text="{Binding Cena}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+
+        <TextBox Name="Menu" HorizontalAlignment="Left" Height="23" Margin="378,11,0,0" TextWrapping="Wrap" Text="Menu" VerticalAlignment="Top" Width="43" TextChanged="TextBox_TextChanged"/>
+        <TextBox Name="Zamowienie" HorizontalAlignment="Left" Height="23" Margin="34,11,0,0" TextWrapping="Wrap" Text="Twoje Zamowienie" VerticalAlignment="Top" Width="115" TextChanged="Zamowienie_TextChanged"/>
+        <TextBox Name="Status" HorizontalAlignment="Left" Height="23" Margin="10,298,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="257" TextChanged="TextBox_TextChanged_1"/>
+        <Button Name="wyslij" Content="Wyslij" HorizontalAlignment="Left" Margin="34,264,0,0" VerticalAlignment="Top" Width="105" Click="Button_Click_3"/>
+        <Image HorizontalAlignment="Left" Height="126" Margin="303,333,0,0" VerticalAlignment="Top" Width="194" Source="myimage.jpg"/>
+        <TextBox Name="Imie" HorizontalAlignment="Left" Height="23" Margin="10,346,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="257" TextChanged="Imie_TextChanged"/>
+        <TextBox Name="Adres" HorizontalAlignment="Left" Height="23" Margin="10,389,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="257" TextChanged="Adres_TextChanged"/>
+        <TextBox Name="Telefon" HorizontalAlignment="Left" Height="23" Margin="10,436,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="257" TextChanged="Telefon_TextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Height="15" Margin="10,326,0,0" TextWrapping="Wrap" Text="Imie" VerticalAlignment="Top" Width="201"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,369,0,0" TextWrapping="Wrap" Text="Adres" VerticalAlignment="Top" Width="183"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,415,0,0" TextWrapping="Wrap" Text="Nr Telefonu" VerticalAlignment="Top" RenderTransformOrigin="0.16,-0.5" Width="257"/>
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="190,10,0,0" TextWrapping="Wrap" Text="Wybrany produkt" VerticalAlignment="Top" Width="105"/>
+
+    </Grid>
+</Window>

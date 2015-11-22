@@ -1,0 +1,17 @@
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\bin\Debug\WPFTablicaAplikacja.exe.config
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\bin\Debug\WPFTablicaAplikacja.exe
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\bin\Debug\WPFTablicaAplikacja.pdb
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\bin\Debug\TablicaServer.exe
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\bin\Debug\KontraktServer.dll
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\bin\Debug\KontraktServer.pdb
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\obj\Debug\WPFTablicaAplikacja.csprojResolveAssemblyReference.cache
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\obj\Debug\MainWindow.baml
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\obj\Debug\App.g.cs
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\obj\Debug\WPFTablicaAplikacja_MarkupCompile.cache
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\obj\Debug\WPFTablicaAplikacja.g.resources
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\obj\Debug\WPFTablicaAplikacja.Properties.Resources.resources
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\obj\Debug\WPFTablicaAplikacja.csproj.GenerateResource.Cache
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\obj\Debug\WPFTablicaAplikacja.exe
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\obj\Debug\WPFTablicaAplikacja.pdb
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\WPFTablicaAplikacja\bin\Debug\TablicaServer.pdb

@@ -1,0 +1,8 @@
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\TablicaServer\bin\Debug\TablicaServer.exe.config
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\TablicaServer\bin\Debug\TablicaServer.exe
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\TablicaServer\bin\Debug\TablicaServer.pdb
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\TablicaServer\bin\Debug\KontraktServer.dll
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\TablicaServer\bin\Debug\KontraktServer.pdb
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\TablicaServer\obj\Debug\TablicaServer.csprojResolveAssemblyReference.cache
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\TablicaServer\obj\Debug\TablicaServer.exe
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\TablicaServer\obj\Debug\TablicaServer.pdb

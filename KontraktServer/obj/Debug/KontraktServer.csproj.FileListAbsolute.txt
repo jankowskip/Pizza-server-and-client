@@ -1,0 +1,6 @@
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\KontraktServer\bin\Debug\KontraktServer.dll.config
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\KontraktServer\bin\Debug\KontraktServer.dll
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\KontraktServer\bin\Debug\KontraktServer.pdb
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\KontraktServer\obj\Debug\KontraktServer.dll
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\KontraktServer\obj\Debug\KontraktServer.pdb
+C:\Users\pj92_000\Documents\Visual Studio 2013\Projects\Tablica i Endpointy\KontraktServer\obj\Debug\KontraktServer.csprojResolveAssemblyReference.cache
